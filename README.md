@@ -1,1 +1,1 @@
-# exemplo-git-20221
+# Repositório utilizado na aula de exemplo de GIT/GITHUB
