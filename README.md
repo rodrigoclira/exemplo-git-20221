@@ -11,10 +11,10 @@
 
 ## Funções do arquivo operacoes.py 
 
-soma(num1, num2)
+soma(num1, num2)  (Alderi)
 
-sub(num1, num2)
+sub(num1, num2)   (Alderi)
 
-div(num1, num2)
+div(num1, num2)   (Jose Augusto)
 
-mult(num1, num2)
+mult(num1, num2)  (Jose Augusto)
