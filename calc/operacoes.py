@@ -8,7 +8,7 @@ def soma (num1,num2):
     resultado = num1+num2
     return resultado
 
-def subtração (num1,num2):
+def subtracao (num1,num2):
     sub("Operação de Subtração")
     resultado = num1-num2
     return resultado
