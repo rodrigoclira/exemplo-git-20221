@@ -18,3 +18,5 @@ sub(num1, num2)   (Alderi)
 div(num1, num2)   (Jose Augusto)
 
 mult(num1, num2)  (Jose Augusto)
+
+pot(base, expoente) (Rodrigo Lira)
