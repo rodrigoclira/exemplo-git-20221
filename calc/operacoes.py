@@ -24,6 +24,9 @@ def div(num1=6, num2=6):
     else:
         return num1 / num2
 
+def pot(base, expoente):
+    return base ** expoente
+
 #calculadoSoma -> câmelo 
 #calculadora_soma 
         

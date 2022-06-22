@@ -1,6 +1,6 @@
 #Arquivo inicial
 
-from calc.operacoes import soma, sub, mult, div
+from calc.operacoes import soma, sub, mult, div, pot
 
 menu="""
 Operações: 
@@ -8,7 +8,8 @@ Operações:
 2 - Subtração
 3 - Multiplicação
 4 - Divisão
-5 - Sair
+5 - Potência
+6 - Sair
 """
 
 "/home/rcls/Documents/GitHub/exemplo-git-20221/img/wonderlay.jpg" #Caminho Absoluto
@@ -17,7 +18,7 @@ Operações:
 while True:
     op = input(menu)
 
-    if op == "5":
+    if op == "6":
         print("Saindo...")
         break
 
@@ -32,4 +33,5 @@ while True:
         print(mult(num1, num2))
     elif op == "4":
         print(div(num1, num2))
-    
+    elif op == "5":
+        print(pot(num1, num2))
