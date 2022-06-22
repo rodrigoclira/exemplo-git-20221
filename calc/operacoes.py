@@ -23,5 +23,7 @@ def div(num1=6, num2=6):
         return "Não é possível divisão por Zero"
     else:
         return num1 / num2
-    
+
+#calculadoSoma -> câmelo 
+#calculadora_soma 
         
