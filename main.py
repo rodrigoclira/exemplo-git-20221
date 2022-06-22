@@ -17,8 +17,13 @@ Operações:
 while True:
     op = input(menu)
 
+    if op == "5":
+        print("Saindo...")
+        break
+
     num1 = float(input("Digite o primeiro número: "))
     num2 = float(input("Digite o segundo número: "))
+    
     if op == "1":
         print(soma(num1, num2))
     elif op == "2":
@@ -27,7 +32,4 @@ while True:
         print(mult(num1, num2))
     elif op == "4":
         print(div(num1, num2))
-    elif op == "5":
-        print("Saindo...")
-        break
-
+    
