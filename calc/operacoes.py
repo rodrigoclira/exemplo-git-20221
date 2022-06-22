@@ -4,13 +4,13 @@
 
 
 def soma(num1,num2):
-    sub("Operação de Adição")
+    print("Operação de Adição")
     resultado = num1+num2
     return resultado
 
 
 def sub(num1,num2):
-    sub("Operação de Subtração")
+    print("Operação de Subtração")
     resultado = num1-num2
     return resultado
 

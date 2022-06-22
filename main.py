@@ -11,6 +11,8 @@ Operações:
 5 - Sair
 """
 
+"/home/rcls/Documents/GitHub/exemplo-git-20221/img/wonderlay.jpg" #Caminho Absoluto
+"./img/wonderlay.jpg" #Caminho Relativo
 
 while True:
     op = input(menu)
